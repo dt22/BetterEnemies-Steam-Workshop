@@ -1,0 +1,24 @@
+{
+  "ID": "com.example.Better_Enemies",
+  "AssemblyName": "BetterEnemies.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Dtony"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Better Enemies"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Improvement To AI And Enemies In General"
+    }
+  ],
+  "Dependencies": []
+}
